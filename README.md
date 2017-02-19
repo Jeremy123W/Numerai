@@ -2,7 +2,7 @@
 
 Numerai is a new kind of hedge fund that pays out a reward to data scientists that can improve their meta model.
 The idea is to take a large number of uncorrelated high performing models and ensemble them.
-Money is divied out based on leaderboard ranking awarding the top 100.
+Money is divvied out based on leaderboard ranking awarding the top 100.
 
 I tried out an xgboost model a wide and deep model using tensorflow.  Google has used this wide and deep model to
 recommend apps on the Google Play store. In this algorithm a wide linear model and a deep feed-forward neural
