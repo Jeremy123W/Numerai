@@ -1,6 +1,4 @@
 # Numerai
-Tensorflow wide and deep model and xgboost
-
 
 Numerai is a new kind of hedge fund that pays out a reward to data scientists that can improve their meta model.
 The idea is to take a large number of uncorrelated high performing models and ensemble them.
