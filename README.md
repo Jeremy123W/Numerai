@@ -12,5 +12,5 @@ Wide and Deep Learning research paper:
 
 https://arxiv.org/abs/1606.07792
 
-The xgboost model was rather poor but the tensorflow model ended up scoring the same logloss as the top 
+The xgboost model was rather poor but the tensorflow model ended up scoring the same logloss as the top 10
 performing models. 
